@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 
-import static java.util.Comparator.comparing;
 
 public class WeightSort {
     public static String orderWeight(String strng) {
