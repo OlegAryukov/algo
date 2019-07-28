@@ -11,5 +11,6 @@ public class DiagonalOrder {
                 counter++;
             }
         }
+        return null;
     }
 }
